@@ -1,0 +1,12 @@
+Albert Rosen: Which way should I go first?
+???: You should probably look for a button.
+Albert Rosen: Great! I'll get looking! Thanks Navi
+Navi: Wait Albert!
+Navi: We're running on stolen time right now$so be sure to use your time sparingly.
+Albert Rosen: Ok!
+Navi: Don't forget that you can fast-forward$ or rewind with the right and left arrow
+keys respectively.
+Navi: Rewind can undo mistakes
+Navi: Fast-forward allows you to zip past enemies
+Navi: You can also pause with the down arrow,$but you need to hit the up arrow to un-pause.
+Albert Rosen: Alright Navi I think I got it.
